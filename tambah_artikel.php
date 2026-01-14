@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <textarea name="isi" class="form-control" required></textarea>
         </div>
         <div class="mb-3">
-            <label>Nama File Gambar (contoh: rover.jpg)</label>
+            <label>Nama File Gambar</label>
             <input type="text" name="gambar" class="form-control" required>
         </div>
         <div class="mb-3">

@@ -28,7 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <input type="text" name="judul" class="form-control" required>
         </div>
         <div class="mb-3">
-            <label>Nama File Gambar (cth: rover.jpg)</label>
+            <label>Nama File Gambar</label>
             <input type="text" name="gambar" class="form-control" required>
         </div>
         <div class="mb-3">
